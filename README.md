@@ -12,7 +12,7 @@
 
 Generate an SVG logo with your choice of shape (circle, square, or triangle), shape color, text (limit of 3 characters), and text color. Shape and text colors can be chosen using color keywords or hexadecimal numbers.
 
-
+Video link for a walkthrough. [Video](./examples/more/Video.webm)
 ## Table of Contents
 
 * [Installation](#installation)
@@ -47,3 +47,4 @@ Each shape is tested for a render() method that returns a string for the SVG fil
 ## Contact
 * Email michaelrkhannah@gmail.com
 * LinkedIn [www.linkedin.com/in/michael-hannah-079991138](www.linkedin.com/in/michael-hannah-079991138)
+* GitHub [https://github.com/mhannah3161/SVG_Generator](https://github.com/mhannah3161/SVG_Generator)
